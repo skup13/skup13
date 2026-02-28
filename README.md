@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Joshua Ocampo 👋
 
 I'm a budding developer focused on building interactive experiences and mastering the world of Open Source. 
 
