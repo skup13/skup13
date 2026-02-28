@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**skup13/skup13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a budding developer focused on building interactive experiences and mastering the world of Open Source. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **The Hang Out Room**, a custom game project.
+- 🌱 I’m currently learning **Git/GitHub** and **Python** fundamentals.
+- 💬 Ask me about my journey into coding or my game ideas!
+- 📫 How to reach me: [Your Email or LinkedIn Link]
+- ⚡ Fun fact: I'm currently building my resume one commit at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Learning Python, JavaScript, and HTML/CSS.
+- **Tools:** GitHub, VS Code, W3Schools.
